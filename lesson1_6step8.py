@@ -1,11 +1,9 @@
+# Задание: поиск элемента по XPath
 from selenium import webdriver
 import time
-from selenium.webdriver.common.by import By
 
-
-# link = "http://suninjuly.github.io/find_xpath_form"
 link = "http://suninjuly.github.io/registration2.html"
-# link = "http://suninjuly.github.io/registration1.html"
+
 try:
     browser = webdriver.Chrome()
     browser.get(link)

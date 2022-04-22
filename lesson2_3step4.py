@@ -1,3 +1,4 @@
+#задача с Alerts
 import math
 from selenium import webdriver
 import time

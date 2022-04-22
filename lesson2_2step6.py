@@ -1,3 +1,4 @@
+# Задание на execute_script
 from selenium import webdriver
 import time
 import math

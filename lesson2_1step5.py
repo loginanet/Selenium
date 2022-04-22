@@ -1,7 +1,7 @@
+# Задача по checkboxes и radiobuttons
 from selenium import webdriver
 import math
 import time
-from selenium.webdriver.common.by import By
 
 link = "http://suninjuly.github.io/math.html"
 
